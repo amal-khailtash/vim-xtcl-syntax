@@ -1,7 +1,7 @@
 vim-xtcl-syntax
 ==============
 
-Syntax highlighting for Xilinx TCL scripts
+Syntax highlighting for Xilinx Vivado TCL scripts
 
 ## Installation
 
