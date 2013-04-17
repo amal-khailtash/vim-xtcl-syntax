@@ -1,2 +1,2 @@
 " xtcl
-autocmd BufNewFile,BufRead *.xtcl setfiletype=xtcl
+autocmd BufNewFile,BufRead *.xtcl setfiletype xtcl
